@@ -1,9 +1,9 @@
 [submodule "bgfx"]
 	path = bgfx
-	url = git@github.com:ysern/RVR-3rdParty-bgfx.git
+	url = https://github.com/ysern/RVR-3rdParty-bgfx.git
 [submodule "bimg"]
 	path = bimg
-	url = git@github.com:ysern/RVR-3rdParty-bimg.git
+	url = https://github.com/ysern/RVR-3rdParty-bimg.git
 [submodule "bx"]
 	path = bx
-	url = git@github.com:ysern/RVR-3rdParty-bx.git
+	url = https://github.com/ysern/RVR-3rdParty-bx.git
